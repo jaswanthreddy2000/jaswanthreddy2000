@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me njaswanthreddy2000@gmail.com
+- 📫 How to reach me at njaswanthreddy2000@gmail.com
 
 <!---
 jaswanthreddy2000/jaswanthreddy2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
