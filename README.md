@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaswanthreddy2000
+- 👋 Hi, I’m @jaswanth reddy
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on ...
