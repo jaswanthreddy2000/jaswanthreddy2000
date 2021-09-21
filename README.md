@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaswanth reddy
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning spring boot
+- 🌱 I’m currently learning Angular js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at njaswanthreddy2000@gmail.com
 
