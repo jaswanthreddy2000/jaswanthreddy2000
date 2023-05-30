@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaswanth reddy
 - 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning Angular js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React js
+- 💞️ I’m looking to collaborate on React, JavaSpringBoot
 - 📫 How to reach me at njaswanthreddy2000@gmail.com
 
 <!---
